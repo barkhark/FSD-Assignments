@@ -132,26 +132,7 @@ A complete Course Registration System with the following features:
 - Git
 - GitHub Desktop
 
----
 
-# Project Structure
-
-```
-FSD-Assignments
-│
-├── Assignment1_StudentRegistration
-├── Assignment2_LoginAuthentication
-├── Assignment3_StudentResultSystem
-├── Assignment4_EmployeeSalaryCalculator
-├── Assignment5_ShoppingCart
-├── Assignment6_LibraryManagement
-├── Assignment7_EmployeeManagement
-├── Assignment8_FeedbackManagement
-├── Assignment9_StudentAttendance
-└── Assignment10_CourseRegistration
-```
-
----
 
 # Learning Outcomes
 
@@ -168,30 +149,9 @@ Through these laboratory assignments, I learned:
 - HTML & CSS
 - GitHub Repository Management
 
----
-
-# GitHub Repository
-
-Repository Name:
-
-**FSD-Assignments**
-
 Repository Link:
 
 **https://github.com/barkhark/FSD-Assignments**
 
----
-
-# Author
-
-**Barkha R. Khobragade**
-
-PRN: **1272250642**
-
-Master of Computer Applications (MCA)
-
-MIT World Peace University, Pune
-
----
 
 ## Thank You
