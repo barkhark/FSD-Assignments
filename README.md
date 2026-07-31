@@ -1,4 +1,4 @@
-# Full Stack Development (FSD) Laboratory Assignments
+# Full Stack Development (FSD) 
 
 Welcome to my **Full Stack Development (FSD) Laboratory Assignments Repository**.
 
@@ -37,7 +37,7 @@ This repository contains all **10 laboratory assignments** completed as part of 
 | Assignment 9 | Student Attendance |
 | Assignment 10 | Course Registration |
 
----
+
 
 # Technologies Used
 
