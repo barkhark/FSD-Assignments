@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Student Result System</title>
+<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+<div class="container">
+  <h2>Student Result Entry</h2>
+  <form action="result" method="post">
+    <label>Student Name:</label>
+    <input type="text" name="name" required>
+
+    <label>Subject 1 Marks (out of 100):</label>
+    <input type="number" name="m1" min="0" max="100" required>
+
+    <label>Subject 2 Marks (out of 100):</label>
+    <input type="number" name="m2" min="0" max="100" required>
+
+    <label>Subject 3 Marks (out of 100):</label>
+    <input type="number" name="m3" min="0" max="100" required>
+
+    <label>Subject 4 Marks (out of 100):</label>
+    <input type="number" name="m4" min="0" max="100" required>
+
+    <label>Subject 5 Marks (out of 100):</label>
+    <input type="number" name="m5" min="0" max="100" required>
+
+    <button type="submit">Calculate Result</button>
+  </form>
+</div>
+</body>
+</html>
