@@ -1,6 +1,6 @@
 # Full Stack Development (FSD) 
 
-Welcome to my **Full Stack Development (FSD) Laboratory Assignments Repository**.
+Welcome to my **Full Stack Development (FSD) .
 
 This repository contains all **10 laboratory assignments** completed as part of the **Master of Computer Applications (MCA)** curriculum at **MIT World Peace University (MIT-WPU), Pune**.
 
